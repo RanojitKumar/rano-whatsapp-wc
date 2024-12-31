@@ -1,0 +1,22 @@
+.rano-wc-product-button {
+    display: inline-flex;
+    align-items: center;
+    padding: 10px 15px;
+    background-color: #25D366;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.rano-wc-product-button:hover {
+    background-color: #128C7E;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.rano-wc-product-button .dashicons {
+    margin-right: 8px;
+    font-size: 20px;
+}
